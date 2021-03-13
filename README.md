@@ -1,2 +1,2 @@
 # hello-world
-my name is andrew and i'm learning to code on github
+My username is InfernoKeeper0 and i'm learning to code on github
